@@ -1,2 +1,2 @@
 # webserver
-a webserver project
+a C++ webserver project
