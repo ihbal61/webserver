@@ -1,0 +1,6 @@
+# add git ignore
+*.o
+*.so
+*.obj
+*.a
+/app
